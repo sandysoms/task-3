@@ -1,0 +1,35 @@
+#navsearch
+{
+padding-left: 60px;
+}
+
+#dashboardtoggle
+{
+    float: left;
+}
+
+#navsearch
+{
+    margin-left: 90px;
+}
+
+.card-link
+{
+    color: white;
+    font-size: large;
+    
+}
+
+#dashboard
+{
+    display: inline;
+    float: left;
+    width: 200px;
+
+}
+
+.content3
+{
+    clear: left;
+    float: right;
+}
